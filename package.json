@@ -1,0 +1,8 @@
+{
+	"name": "validator",
+	"version": "0.0.1",
+	"description": "A simple input validation framework for node.js.",
+	"author": "Izaak Schroeder",
+	"engine": "node >= 0.4.10",
+	"main": "validate.js"
+}
